@@ -1,0 +1,19 @@
+{
+  "contacts": [
+    {
+      "id": "ffc6bae5-78a4-4f53-a4d9-146007d1859b",
+      "name": "255",
+      "email": "admin@gmail.com"
+    },
+    {
+      "id": "00666e48-8de0-4934-9eeb-720a8f771405",
+      "name": "ấdasd",
+      "email": "ádasdsa"
+    },
+    {
+      "id": "eaf4fc56-092a-4b0b-a299-c4676d5adf25",
+      "name": "nhan nguyen",
+      "email": "quangnhan451@gmail.com"
+    }
+  ]
+}
